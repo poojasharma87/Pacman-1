@@ -31,7 +31,7 @@ function preload()
   // load in sounds
   //soundFormats('mp3', 'ogg');
  sirenSound = loadSound('sirensound.wav');
- gameoverSound = loadSound('pacmangameOversound.wav');
+ gameoverSound = loadSound('gameOversound.wav');
  scoreSound = loadSound('scoresound.wav');
 startSound = loadSound('startSound.wav');
   
